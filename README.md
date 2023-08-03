@@ -1,5 +1,4 @@
-# New_end_effector
-Creating a new end effector for the fighting robot using Tinkercad
+# Utilizing Tinkercad for 3D designing of the end effector
 </br>
 </br>
 </br>
